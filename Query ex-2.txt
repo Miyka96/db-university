@@ -27,5 +27,5 @@ GROUP BY `departments`.`name`
 
 QUERY JOIN
 
-1. Selezionare tutti gli studenti uscrutti al Corso di Laurea in Economia
+1. Selezionare tutti gli studenti iscritti al Corso di Laurea in Economia
 
